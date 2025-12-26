@@ -5,6 +5,7 @@ Projeto acadêmico que aplica práticas de estatística e análise de dados para
 
 Análise da Experiência no Ensino EAD
 Este projeto apresenta uma análise exploratória baseada em dados coletados por meio de um formulário aplicado a estudantes do curso de Gestão de Dados da Universidade Federal do Piauí (UFPI), com foco na compreensão da experiência, motivação e organização dos alunos no ensino a distância.
+
 📌 Amostragem
 O formulário foi aplicado a um grupo maior de estudantes, porém 27 respostas válidas foram obtidas e utilizadas nesta análise. Apesar de ser uma amostra reduzida, os dados permitiram identificar padrões relevantes e possíveis pontos de atenção.
 
@@ -15,8 +16,8 @@ Organização pessoal;
 Ocupação dos estudantes (apenas estudo, trabalho e estudo, trabalho integral).
 
 🛠️ Ferramentas utilizadas:
-Excel (tratamento da base de dados)
-Power BI (visualização e construção do dashboard)
+Excel (tratamento da base de dados),
+Power BI (visualização e construção do dashboard).
 
 📈 Principais insights: 
 Estudantes do sexo feminino apresentam maior concentração nas categorias “trabalha” e “trabalha e estuda”.
