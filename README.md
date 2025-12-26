@@ -24,10 +24,12 @@ Estudantes do sexo feminino apresentam maior concentração nas categorias “tr
 A preferência pelo EAD está fortemente associada à necessidade de autonomia, especialmente entre estudantes que conciliam estudo e trabalho.
 Casos de baixa organização pessoal são pouco frequentes, indicando um perfil majoritariamente organizado entre os respondentes.
 Mesmo em grupos com ocupações semelhantes, observam-se diferenças relevantes nos níveis de motivação e organização.
+
 ⚠️ Pontos positivos e lacunas
 Pontos positivos:
 Alta adesão ao EAD por estudantes que trabalham
 Predominância de organização pessoal boa ou muito boa.
+
 
 Lacunas:
 Pequena parcela com baixa motivação, especialmente entre estudantes que trabalham em tempo integral
