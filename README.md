@@ -49,4 +49,4 @@ Necessidade de aprofundar a análise com uma amostra maior
 
 🌱 Aprendizados:
 
-Este projeto reforçou meu interesse pela área de análise de dados e visualização, mostrando como mesmo um formulário simples pode revelar múltiplas possibilidades de análise, melhorias e questionamentos que não são visíveis à primeira vista.
+Este projeto reforçou meu interesse pela área de análise de dados e visualização, mostrando que mesmo com um formulário simples pode revelar múltiplas possibilidades de análise, melhorias e questionamentos que não são visíveis à primeira vista.
